@@ -12,4 +12,13 @@
 [Bucky C++ tutorial](https://www.youtube.com/watch?v=tvC1WCdV1XU&list=PLDED25B8DC0FEF9A1&index=1)
 [Aditional C++ tutorials - doar in timpul liber](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)  
 [Ce este codul binar si cum putem sa-l intelegem](https://www.youtube.com/watch?v=R3vfGXq9MwY)  
-[C - Bitwise Operators](https://www.youtube.com/watch?v=Hs9w-yzM-AI)  
+[C - Bitwise Operators](https://www.youtube.com/watch?v=Hs9w-yzM-AI) 
+
+
+### Modul 2  
+#### Documentatie
+[Curs 2](https://drive.google.com/open?id=1fnmi56DjokUnXhFUYYFUv51oS4ebEb97)   
+#### Laboratoare si exercitii
+[Laborator 2](https://drive.google.com/open?id=1swFvHc9qvuXfw2QrwQl09XDQ3APlJ7L9)  
+[Exercitii](https://drive.google.com/open?id=12VW9dI8wWsdFnai0iQFi1f3zxczvTic_)  
+#### Quiz   
