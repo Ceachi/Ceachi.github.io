@@ -22,3 +22,6 @@
 [Laborator 2](https://drive.google.com/open?id=1swFvHc9qvuXfw2QrwQl09XDQ3APlJ7L9)  
 [Exercitii](https://drive.google.com/open?id=12VW9dI8wWsdFnai0iQFi1f3zxczvTic_)  
 #### Quiz   
+
+### Modul 3
+[Laborator 3](https://drive.google.com/file/d/1YyEXdfWhLuLl_WYn2xUYZUz8tV_zZZS8/view?usp=sharing) 
