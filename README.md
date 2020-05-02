@@ -25,3 +25,7 @@
 
 ### Modul 3
 [Laborator 3](https://drive.google.com/file/d/1YyEXdfWhLuLl_WYn2xUYZUz8tV_zZZS8/view?usp=sharing) 
+
+### Modul 4 - Vectori și matrice
+[Curs 4](https://drive.google.com/open?id=1bpz5--kVKLiHQBfCS4kitUZAnVV76lcZ)  
+[Laborator 4](https://drive.google.com/open?id=1qhLmu2kLCx4oyc9AxsR2Jkgyopbnn-Yz) 
